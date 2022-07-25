@@ -11,6 +11,7 @@
 		3B2022CA288F0EB00015A06C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2022C9288F0EB00015A06C /* ContentView.swift */; };
 		3B2022CC288F0EB30015A06C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B2022CB288F0EB30015A06C /* Assets.xcassets */; };
 		3B2022CF288F0EB30015A06C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B2022CE288F0EB30015A06C /* Preview Assets.xcassets */; };
+		3B2022D6288F10C30015A06C /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2022D5288F10C30015A06C /* NotificationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3B2022C9288F0EB00015A06C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3B2022CB288F0EB30015A06C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B2022CE288F0EB30015A06C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3B2022D5288F10C30015A06C /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3B2022C7288F0EB00015A06C /* SwiftUI_AnimationApp.swift */,
 				3B2022C9288F0EB00015A06C /* ContentView.swift */,
+				3B2022D5288F10C30015A06C /* NotificationView.swift */,
 				3B2022CB288F0EB30015A06C /* Assets.xcassets */,
 				3B2022CD288F0EB30015A06C /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				3B2022CA288F0EB00015A06C /* ContentView.swift in Sources */,
 				3B2022C8288F0EB00015A06C /* SwiftUI_AnimationApp.swift in Sources */,
+				3B2022D6288F10C30015A06C /* NotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
